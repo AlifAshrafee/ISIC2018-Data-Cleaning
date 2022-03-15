@@ -28,6 +28,6 @@ badLabels = [
     'ISIC_0015251_0.jpg',
     'ISIC_0015353_0.jpg',
     'ISIC_0015969_0.jpg',
-    
-
+    'ISIC_0000517_0.jpg',
+    'ISIC_0010056_0.jpg',
 ]
